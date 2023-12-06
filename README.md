@@ -16,14 +16,14 @@
 
 - ⚡ Fun fact **On weekends, my apartment turns into a small laboratory where I experiment with cocktails. I'm not just a trainer for my body but also a bartender for my mood—because life is the best cocktail, isn't it?**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🤝 Get in touch:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/[linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin]" height="30" width="40" /></a>
 <a href="https://discord.gg/leman1147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leman#1147" height="30" width="40" /></a>
+<p align="center">✉ My e-mail: b.lemanek@wp.pl</p>
 </p>
 
-<h3 align="left">🧰 My toolbox</h3>
-<hr>
+<h2 align="left">🧰 My toolbox</h2>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vitejs" width="40" height="40"/> </a>
 <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
