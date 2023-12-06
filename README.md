@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [[CV]]([CV])
 
-- ⚡ Fun fact **On weekends, my apartment turns into a small laboratory where I experiment with cocktails. I'm not just a trainer for my body but also a bartender for my mood—because life is the best cocktail, isn't it?**
+- ⚡ Fun fact: **Sometimes on weekends, my apartment turns into a small laboratory where I experiment with cocktails. I'm not just a trainer for my body but also a bartender for my mood—because life is the best cocktail, isn't it?**
 
 <h2 align="left">🤝 Get in touch:</h2>
 <p align="left">
