@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer, committed to coding with creativity and professionalism</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leman300&label=Profile%20views&color=0e75b6&style=flat" alt="leman300" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/94d568584e36423ce1fae3bd89a1335d2cbf7da1d98557b786a113b20bd841bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343338323431322f73637265656e73686f74732f31353633333237352f6d656469612f30383561303134656265626465373365356364353130633933393431663439612e676966">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 - 🌱 I’m currently learning **Next.js and Cypress**
 
