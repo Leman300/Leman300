@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
-- 🌱 I’m currently learning **Next.js and Cypress**
+- 🌱 I’m currently learning **Next.js and Testing such as Jest/Vitest/Cypress**
 
 - 👨‍💻 All of my main projects are available at [[portfolio]]<[portfolio])
 
