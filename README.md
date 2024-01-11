@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js and Testing such as Jest/Vitest/Cypress**
 
-- 👨‍💻 All of my main projects are available at my <a target="_blank" href="https://leman300.github.io/portfolio/">portfolio</a>
+- 👨‍💻 All of my main projects are available at my <a target="__blank" href="https://leman300.github.io/portfolio/">portfolio</a>
 
 - 💬 Ask me about **React, Vite and TailwindCSS**
 
