@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **b.lemanek@wp.pl**
 
-- 📄 Know about my experiences [[CV]]([CV])
+- 📄 Know about my experiences [[CV]](https://github.com/Leman300/portfolio/blob/gh-pages/assets/CV_EN-4ad30840.pdf)
 
 - ⚡ Fun fact: **Sometimes on weekends, my apartment turns into a small laboratory where I experiment with cocktails. I'm not just a trainer for my body but also a bartender for my mood—because life is the best cocktail, isn't it?**
 
