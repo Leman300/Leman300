@@ -5,6 +5,8 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 - 🌱 I’m currently learning **Next.js and Testing such as Jest/Vitest/Cypress**
+  
+- 🚀 I’m going to learn in future **Astro and Wordpress or Webflow**
 
 - 👨‍💻 All of my main projects are available at my <a target="__blank" href="https://leman300.github.io/portfolio/">portfolio</a>
 
