@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
+- 🤓 What I've learned recently **E2E Testing with Cypress**
+  
 - 🌱 I’m currently learning **Vue.js and Nuxt**
   
 - 🚀 I’m going to learn in future **Wordpress**
