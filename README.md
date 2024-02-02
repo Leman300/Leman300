@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
-- 🌱 I’m currently learning **Next.js and Testing such as Jest/Vitest/Cypress**
+- 🌱 I’m currently learning **Vue.js and Nuxt**
   
-- 🚀 I’m going to learn in future **Astro and Wordpress or Webflow**
+- 🚀 I’m going to learn in future **Wordpress**
 
 - 👨‍💻 All of my main projects are available at my <a target="__blank" href="https://leman300.github.io/portfolio/">portfolio</a>
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [[CV]](https://github.com/Leman300/portfolio/blob/gh-pages/assets/CV_EN-4ad30840.pdf)
 
-- ⚡ Fun fact: **Sometimes on weekends, my apartment turns into a small laboratory where I experiment with cocktails. I'm not just a trainer for my body but also a bartender for my mood—because life is the best cocktail, isn't it?**
+- ⚡ Fun fact: **I only know 25 letters of the alphabet. I don't know y**
 
 <h2 align="left">🤝 Get in touch:</h2>
 <p align="left">
@@ -43,7 +43,9 @@
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" alt="cypress" width="40" height="40"/> </a> 
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+<p align="left"> 
  </p>
 <hr>
 <p align="center"><img src="https://img.devrant.com/devrant/rant/r_957017_r4A2p.jpg" alt="meme" align="center"></p>
