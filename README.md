@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
-- 🤓 What I've learned recently **E2E Testing with Cypress**
+- 🤓 What I've learned recently **E2E Testing with Cypress** and **Unit Testing** and a little bit of **Vue.js with Nuxt**
   
-- 🌱 I’m currently learning **Vue.js and Nuxt**
+- 🌱 I’m currently learning **Wordpress**
   
-- 🚀 I’m going to learn in future **Wordpress**
+- 🚀 I’m going to master in future **Vue.js with Nuxt**
 
 - 👨‍💻 All of my main projects are available at my <a target="__blank" href="https://leman300.github.io/portfolio/">portfolio</a>
 
